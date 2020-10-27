@@ -63,7 +63,8 @@ You experience it on a daily basis but it's worth diving into the process of wha
 - 5.  Credit card network  transmits the results to the merchant bank's processor which then sends the results to the payment gateway.  
 - 6.  The results of transaction were saved and available to the merchant and customer.  If transaction was approved the customer's credi-card issuing bank would send funds to the credit card network, which then sends funds to the merchant's bank.  Round trip process taking < 3 seconds with funds being available to the merchant within two to four business days.
 
-![Credit Card Process](images/cc-process.png)<sup>[xx](#xx)</sup>
+![Credit Card Process](images/cc-process.png) <sup>[xx](#xx)</sup>
+
 
 ### People who make things on the web
 <br>
@@ -72,9 +73,10 @@ You experience it on a daily basis but it's worth diving into the process of wha
 
 Stripe is positioning it's suite of apis and services to serve the internet shopper.  With projected retail e-commerce sales worldwide to be over $4 trillion for 2020 and eclipsing $6 trillion by 2023 Stripe is well positioned to profit from the year over year growth.  With the continual growth of internet access and mobile payment options the opportunities seem endless in the near future. 
 
-![e-commerce](images/e-commerce-2020.png)
+<center><img src="images/e-commerce-2020.png" alt="drawing" width=75%/></center>
 
-Stripe has also introduced Machine Learning for their new lending platform that allows for no contact approvals based as well as AI to analyze fraudulent charges with their fraud product, Radar.
+
+Stripe has also introduced Machine Learning for their new lending platform that allows for no contact approvals as well as AI to analyze fraudulent charges with their fraud product, Radar.
 
 ## Landscape:
 

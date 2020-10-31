@@ -74,6 +74,7 @@ Stripe is positioning it's suite of apis and services to serve the internet shop
 
 ![](images/e-commerce-2020.png)<sup>8</sup>
 
+
 In 2016 Stripe introduced Radar as their defense against fraudulent online activity.  "Unlike their brick-and-mortar competitors, online stores were financially liable for fraud, which cost them tens of billions of dollars per year"<sup>6</sup>  Fraud protection is a catch twenty-two because rules to protect against fraudulent purchases often block legitimate transactions.  Radar uses machine learning algorithms stacked on top of the hundreds of thousands of transactions that flow through the Stripe network every second.  All of this at no extra cost or setup required, Stripe protects their customers businesses out of the box.<sup>6</sup>
 
  In 2019 Stripe Capital rolled out as a new product to continue their mission of global GDP growth.  Using AI and Machine Learning - Stripe Capital allows for capital injections into internet businesses with no contact approvals.  Machine Learning and AI programs issue approvals within a day making funds available the next day.
